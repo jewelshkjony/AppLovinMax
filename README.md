@@ -80,6 +80,7 @@ MAX sizes banners from other networks normally. Adaptive banners are responsive 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.applovinmax.aix</a> (1.73 MB) \
 <b>SDK Version:</b> 11.4.6\
+<b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AppLovinMax/releases/download/AppLovinMax-11.5.2/AppLovinMax.apk">AppLovinMax.apk</a> \
 <b>Last amendment:</b> 17 October 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
